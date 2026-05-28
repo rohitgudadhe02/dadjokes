@@ -12,15 +12,16 @@ button {
     text-align: center;
     background-color: aqua;
      font-family: cursive;
-     margin-left: 50%;
+     margin-left: 40%;
 }
 button:hover {
     background-color: blue;
+    
 }
 p {
     font-family: cursive;
     font-size: larger;
 }
 h2 {
-     font-family: cursive;
+     font-family :'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
