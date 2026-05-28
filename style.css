@@ -1,0 +1,26 @@
+h1 {
+    color: white;
+    text-align: center;
+     font-family: cursive;
+}
+body {
+   
+    background: linear-gradient(to right , purple, white);
+}
+
+button {
+    text-align: center;
+    background-color: aqua;
+     font-family: cursive;
+     margin-left: 50%;
+}
+button:hover {
+    background-color: blue;
+}
+p {
+    font-family: cursive;
+    font-size: larger;
+}
+h2 {
+     font-family: cursive;
+}
